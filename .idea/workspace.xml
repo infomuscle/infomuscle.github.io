@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="컬러 변경">
+    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,7 @@
       <workItem from="1540947085305" duration="35000" />
       <workItem from="1556698452259" duration="2135000" />
       <workItem from="1580382401083" duration="346000" />
-      <workItem from="1580383031991" duration="765000" />
+      <workItem from="1580383031991" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="컬러 변경">
       <created>1580382553262</created>
@@ -85,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580382553262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated nav and about section">
+      <created>1580384040404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580384040404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,13 +97,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="컬러 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="컬러 변경" />
+    <MESSAGE value="updated nav and about section" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated nav and about section" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580382556864">
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580384040237">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580382556864" />
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580384040237" />
     <state x="308" y="27" key="SettingsEditor" timestamp="1580382449620">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
