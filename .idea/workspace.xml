@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="">
+    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="컬러 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +61,37 @@
       <workItem from="1540946924913" duration="84000" />
       <workItem from="1540947085305" duration="35000" />
       <workItem from="1556698452259" duration="2135000" />
-      <workItem from="1580382401083" duration="134000" />
+      <workItem from="1580382401083" duration="346000" />
     </task>
+    <task id="LOCAL-00001" summary="컬러 변경">
+      <created>1580382553262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580382553262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="컬러 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="컬러 변경" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580382556864">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580382556864" />
     <state x="308" y="27" key="SettingsEditor" timestamp="1580382449620">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="308" y="27" key="SettingsEditor/0.23.1680.959@0.23.1680.959" timestamp="1580382449620" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1580382559876">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.959@0.23.1680.959" timestamp="1580382559876" />
   </component>
 </project>
