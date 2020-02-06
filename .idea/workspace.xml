@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="completed skills section">
+    <list default="true" id="4ed4295d-1f7a-49fe-b923-b2e59a0c0e55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -78,7 +78,8 @@
       <workItem from="1580382401083" duration="346000" />
       <workItem from="1580383031991" duration="3918000" />
       <workItem from="1580483666015" duration="5855000" />
-      <workItem from="1580981674121" duration="7860000" />
+      <workItem from="1580981674121" duration="8058000" />
+      <workItem from="1580999648261" duration="372000" />
     </task>
     <task id="LOCAL-00001" summary="컬러 변경">
       <created>1580382553262</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580989406218</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="completed interests section">
+      <created>1580990458202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580990458202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,17 +151,18 @@
     <MESSAGE value="completed education section" />
     <MESSAGE value="completed award and cert section" />
     <MESSAGE value="completed skills section" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed skills section" />
+    <MESSAGE value="completed interests section" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed interests section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580486515172">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.959@0.23.1680.959" timestamp="1580486515172" />
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580989533026">
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580990458103">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580989533026" />
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580990458103" />
     <state x="577" y="135" key="RollbackChangesDialog" timestamp="1580984331555">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
@@ -162,9 +171,9 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="308" y="27" key="SettingsEditor/0.23.1680.959@0.23.1680.959" timestamp="1580382449620" />
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1580989436650">
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1580990461541">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.959@0.23.1680.959" timestamp="1580989436650" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.959@0.23.1680.959" timestamp="1580990461541" />
   </component>
 </project>
