@@ -79,7 +79,7 @@
       <workItem from="1580383031991" duration="3918000" />
       <workItem from="1580483666015" duration="5855000" />
       <workItem from="1580981674121" duration="8058000" />
-      <workItem from="1580999648261" duration="372000" />
+      <workItem from="1580999648261" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="컬러 변경">
       <created>1580382553262</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580990458202</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="remove facebook link">
+      <created>1581000122643</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581000122643</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,17 +159,18 @@
     <MESSAGE value="completed award and cert section" />
     <MESSAGE value="completed skills section" />
     <MESSAGE value="completed interests section" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed interests section" />
+    <MESSAGE value="remove facebook link" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove facebook link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580486515172">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.959@0.23.1680.959" timestamp="1580486515172" />
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1580990458103">
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2" timestamp="1581000122478">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
-    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1580990458103" />
+    <state x="407" y="23" width="866" height="959" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1581000122478" />
     <state x="577" y="135" key="RollbackChangesDialog" timestamp="1580984331555">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
@@ -171,9 +179,9 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="308" y="27" key="SettingsEditor/0.23.1680.959@0.23.1680.959" timestamp="1580382449620" />
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1580990461541">
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1581000126047">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.959@0.23.1680.959" timestamp="1580990461541" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.959@0.23.1680.959" timestamp="1581000126047" />
   </component>
 </project>
