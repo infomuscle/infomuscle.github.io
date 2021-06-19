@@ -1,0 +1,19 @@
+html {
+    /*position: relative;*/
+    /*min-height: 100%;*/
+}
+
+body {
+    background: #abcbc8;
+    /*min-height: 100%;*/
+}
+
+header {
+    background: #abcbc8;
+}
+
+footer {
+    background: #2d5a71;
+/*    position: absolute;*/
+/*    bottom: 0;*/
+}
