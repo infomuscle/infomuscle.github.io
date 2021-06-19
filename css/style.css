@@ -9,3 +9,7 @@ header {
 footer {
     background: #2d5a71;
 }
+
+#title {
+    width: 320px;
+}
