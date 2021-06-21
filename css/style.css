@@ -18,3 +18,8 @@ footer {
 #title {
     width: 320px;
 }
+
+.download-badge {
+    /*width: 256px;*/
+    height: 64px;
+}
