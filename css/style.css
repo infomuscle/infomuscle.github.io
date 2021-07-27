@@ -13,17 +13,36 @@ footer {
 
 #logo {
     width: 320px;
-
 }
-
 #title {
-    width: 320px;
+    width: 33%;
+}
+.download-badge {
+    width: 18%;
 }
 
-.download-badge {
-    /*width: 284px;*/
-    /*width: 250px;*/
-    height: 84px;
+@media screen and (max-width: 768px) {
+    /*#logo {*/
+    /*    width: 320px;*/
+    /*}*/
+    #title {
+        width: 50%;
+    }
+    .download-badge {
+        width: 33%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #logo {
+        width: 90%;
+    }
+    #title {
+        width: 100%;
+    }
+    .download-badge {
+        width: 48%;
+    }
 }
 
 .cartoon {
